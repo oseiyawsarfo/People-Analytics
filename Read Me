@@ -1,0 +1,18 @@
+Cost per hire used to calculate the cost incurred including all expenses by an organization to recruit and hire a 
+new employee. This metric which is often used by Human Resources of an organization takes into account various expenses 
+associated with the hiring process and helps organizations assess the efficiency and effectiveness of their recruitment 
+strategies. 
+By calculating the cost per hire, companies can better understand their recruitment 
+expenses and make informed decisions to optimize their hiring processes.
+
+The formula for calculating cost per hire is generally as follows:
+
+Cost per Hire = (Total Recruiting Costs) / (Number of Hires)
+
+Attached a python file which is a calculator for possible expenses an organization is likely to incur in other to recruit
+new staff. 
+It also includes a budget which is to be indicated to find out if recruitment and selection was done within or outside
+budget. 
+Feel free to download and customise expenses or edit code per your organization's  recruitment method.
+
+Have fun with it.!
